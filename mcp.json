@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "kodza": { "url": "https://kodza.dev/api/mcp" }
+  }
+}

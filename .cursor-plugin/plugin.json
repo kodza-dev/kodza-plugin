@@ -1,0 +1,14 @@
+{
+  "name": "kodza",
+  "displayName": "Kodza",
+  "version": "0.1.0",
+  "description": "Free premium UI components in plain HTML, CSS and vanilla JS. Your assistant finds one and wires it in.",
+  "author": {
+    "name": "Kodza",
+    "email": "hello@kodza.dev"
+  },
+  "homepage": "https://kodza.dev",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["mcp", "ui", "components", "css", "vanilla-js", "wordpress"],
+  "logo": "assets/logo.svg"
+}
